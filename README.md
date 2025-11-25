@@ -42,7 +42,7 @@ This repository contains a Power BI project analyzing the performance of cricket
    - Page analyzing bowling statistics, wickets, and economy rates.
 
 ## Kaggle Notebook:
-- A Kaggle notebook is available for interactive exploration and analysis. [Link to Kaggle Notebook](https://www.kaggle.com/your_username/batter-allrounder-bowler-icc-2023-team-breakdown)
+- A Kaggle notebook is available for interactive exploration and analysis. [Link to Kaggle Notebook](https://www.kaggle.com/code/enggbilalalikhan/batter-allrounder-bowler-icc-2023-team-breakdown)
 
 ## License:
 This project is licensed under the [MIT License](LICENSE.md).
